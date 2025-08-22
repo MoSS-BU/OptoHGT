@@ -1,0 +1,12 @@
+create_bonds single/bond 203 10688 10689
+create_bonds single/bond 203 10689 10690
+create_bonds single/bond 203 10690 10691
+create_bonds single/bond 203 10691 10692
+create_bonds single/bond 203 10692 10693
+create_bonds single/bond 203 10693 10694
+create_bonds single/bond 203 10694 10695
+create_bonds single/bond 203 10695 10696
+create_bonds single/bond 203 10696 10697
+create_bonds single/bond 203 10697 10698
+create_bonds single/bond 203 10698 10699
+create_bonds single/bond 203 10699 10700

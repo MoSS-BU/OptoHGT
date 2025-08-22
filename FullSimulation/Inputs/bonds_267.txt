@@ -1,0 +1,15 @@
+create_bonds single/bond 267 13769 13770
+create_bonds single/bond 267 13770 13771
+create_bonds single/bond 267 13771 13772
+create_bonds single/bond 267 13772 13773
+create_bonds single/bond 267 13773 13774
+create_bonds single/bond 267 13774 13775
+create_bonds single/bond 267 13775 13776
+create_bonds single/bond 267 13776 13777
+create_bonds single/bond 267 13777 13778
+create_bonds single/bond 267 13778 13779
+create_bonds single/bond 267 13779 13780
+create_bonds single/bond 267 13780 13781
+create_bonds single/bond 267 13781 13782
+create_bonds single/bond 267 13782 13783
+create_bonds single/bond 267 13783 13784
