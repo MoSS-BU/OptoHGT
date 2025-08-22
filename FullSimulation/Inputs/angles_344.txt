@@ -1,0 +1,17 @@
+create_bonds single/angle 344 17441 17442 17443
+create_bonds single/angle 344 17442 17443 17444
+create_bonds single/angle 344 17443 17444 17445
+create_bonds single/angle 344 17444 17445 17446
+create_bonds single/angle 344 17445 17446 17447
+create_bonds single/angle 344 17446 17447 17448
+create_bonds single/angle 344 17447 17448 17449
+create_bonds single/angle 344 17448 17449 17450
+create_bonds single/angle 344 17449 17450 17451
+create_bonds single/angle 344 17450 17451 17452
+create_bonds single/angle 344 17451 17452 17453
+create_bonds single/angle 344 17452 17453 17454
+create_bonds single/angle 344 17453 17454 17455
+create_bonds single/angle 344 17454 17455 17456
+create_bonds single/angle 344 17455 17456 17457
+create_bonds single/angle 344 17456 17457 17458
+create_bonds single/angle 344 17457 17458 17459
